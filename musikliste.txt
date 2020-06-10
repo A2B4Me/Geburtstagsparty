@@ -1,5 +1,3 @@
-test
-test2
 la1
 la2
 la3
